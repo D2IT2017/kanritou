@@ -1,1 +1,7 @@
-![loading](https://i.ytimg.com/vi/zfBM1MSrk8c/maxresdefault.jpg "サンプル")
+# Q&Aてきなの
+Q.goodおおお  
+A.ありがとうございます。一応感想に書いてください  
+Q.壁紙気になった  
+A.メンバーの私物なので仕方がないです。  
+Q.VR作ります  
+A.頑張ってください。一応データは学校のサーバーおよびここにあります  
