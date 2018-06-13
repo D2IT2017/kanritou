@@ -10,4 +10,4 @@ The 3D models will be shared at
 この研究は熊本地震で崩れた建物を3Dモデルによって再現しています。  
 この建物は作り直すことが決まったので、私たちは3Dモデルを作って記録として残すことにしました。  
 私たちはSketchUpというソフトを使って建物を再現します。  
-この3Dモデルは"https://github.com/mirachan010/kanritou"で公開しています。  
+この3Dモデルは"https://github.com/mirachan010/kanritou" で公開しています。  
