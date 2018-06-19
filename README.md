@@ -1,4 +1,4 @@
-﻿# ファイル説明
+# ファイル説明
 + readme.me  
 このファイル
 + 管理棟+図書館.skp  
@@ -6,6 +6,7 @@
 ## 管理棟のファイルについて
 このファイルはスケッチアップを使って作成しているのでスケッチアップにて使用してください  
 [SketchUpのサイト](https://www.sketchup.com/ja)
+[aaaa](https://www.sketchup.com/ja/sketchup/SketchUpPro-ja-exe)
 # なんか更新とかあったら
 ぷるりくよろ  
 # 理数科からの質問・アドバイスに返信しています。  
